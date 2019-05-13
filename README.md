@@ -14,3 +14,4 @@ Open Source workflows for Enterprises
 ## 🛠 Tools
 
 - Latest version of [Git](https://git-scm.com/downloads)
+- Any Text Editor / IDE
